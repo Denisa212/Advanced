@@ -108,6 +108,7 @@ function deleteCheckEdit(e) {
   }
 }
   
-    markAsUndone() {
+    markAsUndone(); {
       this.done = false;
     }
+  
